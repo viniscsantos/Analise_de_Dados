@@ -17,4 +17,4 @@ Técnologias utilizadas
 
 **Confira a análise completa no binder:** 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/viniscsantos/demo-rasa/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/viniscsantos/Analise_de_Dados/HEAD)
